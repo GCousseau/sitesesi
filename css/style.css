@@ -16,6 +16,7 @@ header{
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     padding: 20px;
+    grid-template-rows:auto auto;
 }
 
 .informacoes,
